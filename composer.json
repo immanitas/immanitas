@@ -1,0 +1,10 @@
+{
+    "name": "immanitas/immanitas",
+    "authors": [
+        {
+            "name": "Igors Sigalovs",
+            "email": "igor.sigalovs@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "name": "laravel/laravel",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
@@ -23,7 +22,7 @@
             "database/factories"
         ],
         "psr-4": {
-            "App\\": "app/"
+            "Immanitas\\": "app/"
         }
     },
     "autoload-dev": {
@@ -54,14 +53,4 @@
         "sort-packages": true,
         "optimize-autoloader": true
     }
-=======
-    "name": "immanitas/immanitas",
-    "authors": [
-        {
-            "name": "Igors Sigalovs",
-            "email": "igor.sigalovs@gmail.com"
-        }
-    ],
-    "require": {}
->>>>>>> f10424fb7f3c636fdfd30de8961f16e27df523e7
 }
